@@ -46,7 +46,7 @@ In Historical weather forecasting, you have to give start-date and end-date and 
 
 #### Installation
 
-Creat a database with name 'weather' and a table with name 'credentials' in MySQL 
+Creat a database with name 'weather' in localhost:3306 and a table with name 'credentials' in 'weather' in MySQL 
 open any IDE and direct the project and check the connection 
 and now run it on localhost  
 
